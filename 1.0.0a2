@@ -1,0 +1,13 @@
+Collecting gymnasium
+  Downloading gymnasium-1.2.3-py3-none-any.whl.metadata (10 kB)
+Requirement already satisfied: numpy>=1.21.0 in c:\users\neila\appdata\roaming\python\python312\site-packages (from gymnasium) (1.26.4)
+Requirement already satisfied: cloudpickle>=1.2.0 in c:\users\neila\anaconda3\lib\site-packages (from gymnasium) (2.2.1)
+Requirement already satisfied: typing-extensions>=4.3.0 in c:\users\neila\anaconda3\lib\site-packages (from gymnasium) (4.11.0)
+Collecting farama-notifications>=0.0.1 (from gymnasium)
+  Downloading Farama_Notifications-0.0.4-py3-none-any.whl.metadata (558 bytes)
+Downloading gymnasium-1.2.3-py3-none-any.whl (952 kB)
+   ---------------------------------------- 0.0/952.1 kB ? eta -:--:--   --------------------------------------- 952.1/952.1 kB 22.3 MB/s eta 0:00:00
+Downloading Farama_Notifications-0.0.4-py3-none-any.whl (2.5 kB)
+Installing collected packages: farama-notifications, gymnasium
+   -------------------- ------------------- 1/2 [gymnasium]   -------------------- ------------------- 1/2 [gymnasium]   -------------------- ------------------- 1/2 [gymnasium]   -------------------- ------------------- 1/2 [gymnasium]   ---------------------------------------- 2/2 [gymnasium]
+Successfully installed farama-notifications-0.0.4 gymnasium-1.2.3
